@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1446779856 source:c:\users\isabel\desktop\tarea3 v2\main.cpp
+	"Parque.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<chrono>
+	<ctime>
+
+1446778831 c:\users\isabel\desktop\tarea3 v2\parque.h
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1446873532 source:c:\users\isabel\documents\ucr\estructuras de datos y análisis de algoritmos\tarea 3\proyecto 3\main.cpp
+	"Parque.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<chrono>
+	<ctime>
+
+1446873385 c:\users\isabel\documents\ucr\estructuras de datos y análisis de algoritmos\tarea 3\proyecto 3\parque.h
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1447531841 source:c:\users\johan\desktop\proyecto 3\main.cpp
+	"Parque.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<chrono>
+	<ctime>
+
+1447530710 c:\users\johan\desktop\proyecto 3\parque.h
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1447533112 source:c:\users\kenneth calvo\downloads\telegram desktop\proyecto 3\main.cpp
+	"Parque.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<chrono>
+	<ctime>
+
+1447530710 c:\users\kenneth calvo\downloads\telegram desktop\proyecto 3\parque.h
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1447536653 source:c:\users\johan\downloads\telegram desktop\proyecto 3\main.cpp
+	"Parque.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<chrono>
+	<ctime>
+
+1447610746 c:\users\johan\downloads\telegram desktop\proyecto 3\parque.h
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1448070194 source:c:\users\isabel\desktop\proyecto 3\main.cpp
+	"Parque.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<chrono>
+	<ctime>
+
+1447823185 c:\users\isabel\desktop\proyecto 3\parque.h
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
